@@ -1,0 +1,4 @@
+
+fn main() {
+    tmp::main();
+}
